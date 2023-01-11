@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Lopez</h1>
-<h3 align="center">A software engineering student with a passion for technology</h3>
+<h3 align="center">Student passionate about technology in the field of software engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 
